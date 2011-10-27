@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ServiceLibrary.TimeService, ServiceLibrary" Factory="StructureMapWcfIntegration.StructureMapServiceHostFactory" %>
